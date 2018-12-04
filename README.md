@@ -8,6 +8,10 @@ This is an example to show different parts of the git repo.
 
 ## Purpose
 
+blah blah
+
 ## Deployment 
+
+Simple web  project 
 
 Sample website with plenty of files for demos
